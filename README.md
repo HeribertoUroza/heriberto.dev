@@ -6,6 +6,9 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
 ### Features
 1. The Tie will change colors on different pages
 2. If you go to the site on the weekend, the tie is loosen
+3. MOBILE: 
+    - Home Page will have the tie change colors every few seconds.
+    - Other pages, the tie will be transparent enough like a watermark to allow more space for the content.
 
 ### ToDo
 #### 1/10
