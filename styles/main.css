@@ -2,4 +2,9 @@
   margin: 0;
   padding: 0;
 }
+
+.links_container {
+  display: -ms-grid;
+  display: grid;
+}
 /*# sourceMappingURL=main.css.map */
