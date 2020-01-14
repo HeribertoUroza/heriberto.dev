@@ -8,8 +8,20 @@ $titleFont: 'Merriweather', serif;
 $bodyFont: 'Oswald', sans-serif;
 
 .title_container {
+    padding: 4%;
 
     .signature {
-        font-size: 30PX;
+        font-family: $bodyFont;
+        font-size: 1.5rem;
+        letter-spacing: 1.5px;
+    }
+}
+
+.links_container {
+    height: 90vh;
+    .link {
+        font-family: $titleFont;
+        font-size: 2.5rem;
+        padding: 5%
     }
 }

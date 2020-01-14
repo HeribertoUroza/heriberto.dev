@@ -3,7 +3,23 @@
   padding: 0;
 }
 
+.title_container {
+  padding: 4%;
+}
+
 .title_container .signature {
-  font-size: 30PX;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 1.5px;
+}
+
+.links_container {
+  height: 90vh;
+}
+
+.links_container .link {
+  font-family: "Merriweather", serif;
+  font-size: 2.5rem;
+  padding: 5%;
 }
 /*# sourceMappingURL=main.css.map */
