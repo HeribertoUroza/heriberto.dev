@@ -3,8 +3,7 @@
   padding: 0;
 }
 
-.links_container {
-  display: -ms-grid;
-  display: grid;
+body {
+  background-color: blue;
 }
 /*# sourceMappingURL=main.css.map */
