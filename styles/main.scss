@@ -7,6 +7,9 @@
 $titleFont: 'Merriweather', serif;
 $bodyFont: 'Oswald', sans-serif;
 
-body {
-    background-color: blue;
+.title_container {
+
+    .signature {
+        font-size: 30PX;
+    }
 }
