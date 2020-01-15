@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    background-image: url('../assets/Tie.svg')
+}
+
 // VARIABLES
 $titleFont: 'Merriweather', serif;
 $bodyFont: 'Oswald', sans-serif;
@@ -19,6 +23,9 @@ $bodyFont: 'Oswald', sans-serif;
 
 .links_container {
     height: 90vh;
+    align-content: space-around;
+    justify-content: space-between;  
+
     .link {
         font-family: $titleFont;
         font-size: 2.5rem;

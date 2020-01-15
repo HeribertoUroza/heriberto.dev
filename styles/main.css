@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+body {
+  background-image: url("../assets/Tie.svg");
+}
+
 .title_container {
   padding: 4%;
 }
@@ -15,6 +19,11 @@
 
 .links_container {
   height: 90vh;
+  -ms-flex-line-pack: distribute;
+      align-content: space-around;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 .links_container .link {
