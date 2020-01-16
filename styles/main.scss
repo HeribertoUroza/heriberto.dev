@@ -13,7 +13,7 @@ img {
     background-image: url('../assets/Tie.svg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 80vh;
+    height: 90vh;
     position: absolute;
     top: 0px;
     right: 2px;
@@ -27,17 +27,22 @@ img {
         font-family: $bodyFont;
         font-size: 1.5rem;
         letter-spacing: 1.5px;
+        font-weight: 600;
     }
 }
 
 .links_container {
     height: 90vh;
     align-content: space-around;
-    justify-content: space-between;  
+    justify-content: center; 
+
 
     .link {
         font-family: $titleFont;
         font-size: 2.5rem;
-        padding: 5%
+        padding: 5%;
+        letter-spacing: 2px;
+        text-decoration: none;
+        color: black;
     }
 }
