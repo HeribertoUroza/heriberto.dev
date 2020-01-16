@@ -17,7 +17,7 @@ img {
     position: absolute;
     top: 0px;
     right: 2px;
-    opacity: 0.2;
+    opacity: 0.25;
 }
 
 .title_container {
@@ -34,13 +34,15 @@ img {
 .links_container {
     height: 90vh;
     align-content: space-around;
-    justify-content: center; 
-
+    display: grid;
+    align-items: center;
+    align-content: center;
 
     .link {
         font-family: $titleFont;
         font-size: 2.5rem;
         padding: 5%;
+        padding-top: 10%;
         letter-spacing: 2px;
         text-decoration: none;
         color: black;
