@@ -4,7 +4,11 @@
 }
 
 body {
-    background-image: url('../assets/Tie.svg')
+    background-image: url('../assets/Tie.svg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right top;
+    background-size: 50%;
 }
 
 // VARIABLES
