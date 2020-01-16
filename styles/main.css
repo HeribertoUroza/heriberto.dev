@@ -3,11 +3,16 @@
   padding: 0;
 }
 
+.about-me-container {
+  height: 85vh;
+  background-color: aqua;
+}
+
 img {
   background-image: url("../assets/Tie.svg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 90vh;
+  height: 93vh;
   position: absolute;
   top: 0px;
   right: 2px;

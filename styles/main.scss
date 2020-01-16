@@ -3,7 +3,8 @@
     padding: 0;
 }
 
-
+// IMPORTS
+@import '_about-me'; // ABOUT ME PAGE
 
 // VARIABLES
 $titleFont: 'Merriweather', serif;
@@ -13,8 +14,8 @@ img {
     background-image: url('../assets/Tie.svg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 90vh;
-    position: absolute;
+    height: 93vh;
+    position: sticky;
     top: 0px;
     right: 2px;
     opacity: 0.25;

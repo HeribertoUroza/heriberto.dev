@@ -1,0 +1,13 @@
+
+.about-me-container {
+    height: 85vh;
+    background-color: aqua;
+
+    .am-title {
+        font-family: $titleFont;
+        font-weight: 300;
+        font-size: 2.5rem;
+        letter-spacing: 2px;
+        color: black;
+    }
+}
