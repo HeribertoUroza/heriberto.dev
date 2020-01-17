@@ -17,11 +17,12 @@ $bodyFont: 'Oswald', sans-serif;
 .am-b-container {
     height: 90vh;
     display: grid;
-    grid-template-columns: 50% auto;
+    grid-template-columns: 60% auto;
     align-items: center;
 
     .am-body {
         font-family: $bodyFont;
+        text-align: left;
         font-size: 1.5rem;
         padding-left: 8%;
     }
