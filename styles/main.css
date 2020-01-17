@@ -14,10 +14,19 @@
 
 .am-b-container {
   height: 90vh;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 50% auto;
+      grid-template-columns: 50% auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .am-b-container .am-body {
   font-family: "Oswald", sans-serif;
+  font-size: 1.5rem;
+  padding-left: 8%;
 }
 
 img {

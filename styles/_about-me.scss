@@ -3,7 +3,7 @@ $titleFont: 'Merriweather', serif;
 $bodyFont: 'Oswald', sans-serif;
 
 .amt-container {
-
+    
     .am-title {
         font-family: $titleFont;
         font-weight: 300;
@@ -16,8 +16,13 @@ $bodyFont: 'Oswald', sans-serif;
 
 .am-b-container {
     height: 90vh;
+    display: grid;
+    grid-template-columns: 50% auto;
+    align-items: center;
 
     .am-body {
         font-family: $bodyFont;
+        font-size: 1.5rem;
+        padding-left: 8%;
     }
 }
