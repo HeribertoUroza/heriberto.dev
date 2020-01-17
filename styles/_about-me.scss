@@ -2,10 +2,7 @@
 $titleFont: 'Merriweather', serif;
 $bodyFont: 'Oswald', sans-serif;
 
-.about-me-container {
-    height: 100vh;
-    display: grid;
-    
+.amt-container {
 
     .am-title {
         font-family: $titleFont;
@@ -14,5 +11,13 @@ $bodyFont: 'Oswald', sans-serif;
         letter-spacing: 2px;
         color: black;
         padding-left: 4%;
+    }
+}
+
+.am-b-container {
+    height: 90vh;
+
+    .am-body {
+        font-family: $bodyFont;
     }
 }

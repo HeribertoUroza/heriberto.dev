@@ -3,19 +3,21 @@
   padding: 0;
 }
 
-.about-me-container {
-  height: 100vh;
-  display: -ms-grid;
-  display: grid;
-}
-
-.about-me-container .am-title {
+.amt-container .am-title {
   font-family: "Merriweather", serif;
   font-weight: 300;
   font-size: 2.5rem;
   letter-spacing: 2px;
   color: black;
   padding-left: 4%;
+}
+
+.am-b-container {
+  height: 90vh;
+}
+
+.am-b-container .am-body {
+  font-family: "Oswald", sans-serif;
 }
 
 img {
