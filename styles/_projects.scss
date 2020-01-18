@@ -1,0 +1,14 @@
+// VARIABLES
+$titleFont: 'Merriweather', serif;
+$bodyFont: 'Oswald', sans-serif;
+
+.p-container {
+    .p-title {
+        font-family: $titleFont;
+        font-weight: 300;
+        font-size: 2.5rem;
+        letter-spacing: 2px;
+        color: black;
+        padding-left: 4%;
+    }
+}
