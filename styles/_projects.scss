@@ -12,3 +12,17 @@ $bodyFont: 'Oswald', sans-serif;
         padding-left: 4%;
     }
 }
+
+.p-b-container {
+    height: 90vh;
+    display: grid;
+    grid-template-columns: 60% auto;
+    align-items: center;
+
+    .p-body {
+        font-family: $bodyFont;
+        text-align: left;
+        font-size: 1.5rem;
+        padding-left: 8%;
+    }
+}
