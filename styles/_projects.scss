@@ -17,12 +17,37 @@ $bodyFont: 'Oswald', sans-serif;
     height: 90vh;
     display: grid;
     grid-template-columns: 60% auto;
+    grid-template-rows: auto auto auto;
     align-items: center;
 
-    .p-body {
+    // .p-body {
         font-family: $bodyFont;
         text-align: left;
         font-size: 1.5rem;
         padding-left: 8%;
-    }
+
+        // img {
+
+            .p-1 {
+                grid-column-start: 1;
+                grid-column-end: 2;
+                grid-row-start: 1;
+                grid-row-end: 2;
+            }
+
+            .p-2 {
+                grid-column-start: 1;
+                grid-column-end: 2;
+                grid-row-start: 2;
+                grid-row-end: 3;
+            }
+
+            .p-3 {
+                grid-column-start: 1;
+                grid-column-end: 2;
+                grid-row-start: 3;
+                grid-row-end: 4;
+            }
+        // }
+    // }
 }
