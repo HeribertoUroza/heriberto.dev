@@ -12,18 +12,19 @@
 $titleFont: 'Merriweather', serif;
 $bodyFont: 'Oswald', sans-serif;
 
-img {
-    
-    background-image: url('../assets/Tie.svg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 93vh;
-    background-position: right;
-    position: fixed;
-    top: 0px;
-    right: 2px;
-    opacity: 0.25;
-}
+// img {
+
+    .background {
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        height: 93vh;
+        background-position: right;
+        position: fixed;
+        top: 0px;
+        right: 2px;
+        opacity: 0.25;
+    }
+// }
 
 .title_container {
     padding: 4%;

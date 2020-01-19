@@ -83,8 +83,7 @@
   grid-row-end: 4;
 }
 
-img {
-  background-image: url("../assets/Tie.svg");
+.background {
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 93vh;
