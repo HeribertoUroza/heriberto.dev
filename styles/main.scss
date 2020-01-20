@@ -12,23 +12,23 @@
 $titleFont: 'Merriweather', serif;
 $bodyFont: 'Oswald', sans-serif;
 
-// img {
 
-    .background {
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+
+.background {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 93vh;
+    background-position: right;
+    position: fixed;
+    top: 0px;
+    right: 2px;
+    opacity: 0.25;
+
+    .background-image {
         height: 93vh;
-        background-position: right;
-        position: fixed;
-        top: 0px;
-        right: 2px;
-        opacity: 0.25;
-
-        .background-image {
-            height: 93vh;
-        }
     }
-// }
+}
+
 
 .title_container {
     padding: 4%;
