@@ -65,6 +65,10 @@
   grid-row-end: 2;
 }
 
+.p-b-container .p-1 .p-1-image {
+  height: 50px;
+}
+
 .p-b-container .p-2 {
   -ms-grid-column: 1;
       grid-column-start: 1;
@@ -74,6 +78,10 @@
   grid-row-end: 3;
 }
 
+.p-b-container .p-2 .p-2-image {
+  height: 50px;
+}
+
 .p-b-container .p-3 {
   -ms-grid-column: 1;
       grid-column-start: 1;
@@ -81,6 +89,10 @@
   -ms-grid-row: 3;
       grid-row-start: 3;
   grid-row-end: 4;
+}
+
+.p-b-container .p-3 .p-3-image {
+  height: 50px;
 }
 
 .background {
