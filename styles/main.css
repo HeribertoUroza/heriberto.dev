@@ -63,6 +63,8 @@
   -ms-grid-row: 1;
       grid-row-start: 1;
   grid-row-end: 2;
+  display: -ms-grid;
+  display: grid;
 }
 
 .p-b-container .p-1 .p-1-image {
@@ -76,6 +78,8 @@
   -ms-grid-row: 2;
       grid-row-start: 2;
   grid-row-end: 3;
+  display: -ms-grid;
+  display: grid;
 }
 
 .p-b-container .p-2 .p-2-image {
@@ -89,6 +93,8 @@
   -ms-grid-row: 3;
       grid-row-start: 3;
   grid-row-end: 4;
+  display: -ms-grid;
+  display: grid;
 }
 
 .p-b-container .p-3 .p-3-image {

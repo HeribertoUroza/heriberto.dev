@@ -30,6 +30,8 @@ $bodyFont: 'Oswald', sans-serif;
         grid-row-start: 1;
         grid-row-end: 2;
         
+        display: grid; 
+
         .p-1-image {
             height: 50px;
         }
@@ -41,6 +43,8 @@ $bodyFont: 'Oswald', sans-serif;
         grid-row-start: 2;
         grid-row-end: 3;
         
+        display: grid; 
+
         .p-2-image {
             height: 50px;
         }
@@ -52,6 +56,8 @@ $bodyFont: 'Oswald', sans-serif;
         grid-row-start: 3;
         grid-row-end: 4;
         
+        display: grid; 
+
         .p-3-image {
             height: 50px;
         }
