@@ -4,7 +4,8 @@
     "sources": [
         "main.scss",
         "_about-me.scss",
-        "_projects.scss"
+        "_projects.scss",
+        "_resume.scss"
     ],
     "names": [],
     "file": "main.css"
