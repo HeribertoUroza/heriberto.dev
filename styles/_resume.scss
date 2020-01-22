@@ -12,3 +12,13 @@ $titleFont: 'Merriweather', serif;
         padding-left: 4%;
     }
 }
+
+.pdf-container {
+    height: 90vh;
+
+    .pdf-file {
+        margin: 10%;
+        height: 80%;
+        width: 80%;
+    }
+}

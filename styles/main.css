@@ -110,6 +110,16 @@
   padding-left: 4%;
 }
 
+.pdf-container {
+  height: 90vh;
+}
+
+.pdf-container .pdf-file {
+  margin: 10%;
+  height: 80%;
+  width: 80%;
+}
+
 .background {
   background-repeat: no-repeat;
   background-attachment: fixed;
