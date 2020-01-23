@@ -15,10 +15,13 @@ $titleFont: 'Merriweather', serif;
 
 .pdf-container {
     height: 90vh;
+    display: grid;
+    opacity: initial;
 
-    .pdf-file {
-        margin: 10%;
-        height: 80%;
-        width: 80%;
+    .pdf-file {    
+        margin: 0%;
+        height: 65%;
+        width: 100%;
+        left: 2px;
     }
 }

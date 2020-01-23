@@ -112,12 +112,16 @@
 
 .pdf-container {
   height: 90vh;
+  display: -ms-grid;
+  display: grid;
+  opacity: initial;
 }
 
 .pdf-container .pdf-file {
-  margin: 10%;
-  height: 80%;
-  width: 80%;
+  margin: 0%;
+  height: 65%;
+  width: 100%;
+  left: 2px;
 }
 
 .background {
@@ -128,11 +132,11 @@
   position: fixed;
   top: 0px;
   right: 2px;
-  opacity: 0.25;
 }
 
 .background .background-image {
   height: 93vh;
+  opacity: 0.3;
 }
 
 .title_container {
