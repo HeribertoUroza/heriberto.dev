@@ -17,19 +17,33 @@ $bodyFont: 'Oswald', sans-serif;
     height: 90vh;
     display: grid;
     grid-template-columns: 60% auto;
+    grid-template-rows: auto auto auto auto;
     align-items: center;
 
     .i-1 {
+        display: grid;
+        padding-left: 4%;
         
+
         .i-1-image {
-            height: 30px;
+            height: 50px;
+        }
+
+        .i-1-span {
+            font-family: $bodyFont;
         }
     }
 
     .i-2 {
+        display: grid;
+        padding-left: 4%;
+        
+        .i-2-image {
+            height: 50px;
+        }
 
-        .i-1-image {
-            height: 30px;
+        .i-2-span {
+            font-family: $bodyFont;
         }
     }
 }
