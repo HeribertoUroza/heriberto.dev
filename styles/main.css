@@ -123,6 +123,34 @@
   left: 2px;
 }
 
+.cm-container .cm-title {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  color: black;
+  padding-left: 4%;
+}
+
+.cm-b-container {
+  height: 90vh;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 60% auto;
+      grid-template-columns: 60% auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.cm-b-container .i-1 .i-1-image {
+  height: 30px;
+}
+
+.cm-b-container .i-2 .i-1-image {
+  height: 30px;
+}
+
 .background {
   background-repeat: no-repeat;
   background-attachment: fixed;
