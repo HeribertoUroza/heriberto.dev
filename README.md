@@ -15,5 +15,7 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
     - Need to see if this can be done with css or something else needed.
 2. Have the site load the a different image based on the date.
 3. Research how the Tie will change color based on the page they are on. 
+    - having issues with current svg image, need to try and remake a new one. Also look into "masking" the svg. Could help with goal of changing color.
+    - For now, possible options are to leave alone leave alone with black and white tie or depending on the scroll view, change the image.
 4. Images of the projects need to be screenshoted.
 5. Icons for the contact me page for Linkedin and GitHub
