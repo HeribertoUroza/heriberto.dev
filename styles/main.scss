@@ -23,7 +23,7 @@ $bodyFont: 'Oswald', sans-serif;
     position: fixed;
     top: 0px;
     right: 2px;
-    
+    z-index: -1;
 
     .background-image {
         height: 93vh;
