@@ -29,6 +29,14 @@ $bodyFont: 'Oswald', sans-serif;
         height: 93vh;
         opacity: 0.3;
     }
+
+    #tieColor {
+        height: 100vh;
+        width: 100%;
+        top: 0;
+        position: absolute;
+        z-index: -1;
+    }
 }
 
 
