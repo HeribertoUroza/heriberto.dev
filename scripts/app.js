@@ -1,18 +1,20 @@
 
 
 $(document).ready(function(){
-    console.log('ready');
-
+    
     $("a").on("click", function(event) {
-        console.log(this.hash)
-        event.preventDefault();
         
-        const hash = this.hash;
+        if(this.hash !== '') {
+            event.preventDefault();
 
-        $('html, body').animate({
-            scrollTop: $(hash).offset().top
-        }, 800, function () {
-            window.location.hash = hash;
-        });
-    })
-})
+            const hash = this.hash;
+
+            $('html, body').animate({
+                scrollTop: $(hash).offset().top
+            }, 900, function () {
+                window.location.hash = hash;
+            });
+        };
+        
+    });
+});
