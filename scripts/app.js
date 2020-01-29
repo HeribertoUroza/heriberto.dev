@@ -9,11 +9,38 @@ $(document).ready(function(){
 
             const hash = this.hash;
 
-            $('html, body').animate({
-                scrollTop: $(hash).offset().top
-            }, 900, function () {
-                window.location.hash = hash;
-            });
+            if(hash === '#about-me'){
+                $('html, body').animate({
+                    scrollTop: $(hash).offset().top
+                }, 900, function () {
+                    window.location.hash = hash;
+                });
+            } 
+            
+            if (hash === '#projects') {
+                $('html, body').animate({
+                    scrollTop: $(hash).offset().top
+                }, 1300, function () {
+                    window.location.hash = hash;
+                });
+            } 
+
+            if (hash === '#resume') {
+                $('html, body').animate({
+                    scrollTop: $(hash).offset().top
+                }, 1700, function () {
+                    window.location.hash = hash;
+                });
+            } 
+
+            if (hash === '#contact-me') {
+                $('html, body').animate({
+                    scrollTop: $(hash).offset().top
+                }, 2100, function () {
+                    window.location.hash = hash;
+                });
+            } 
+
         };
         
     });
