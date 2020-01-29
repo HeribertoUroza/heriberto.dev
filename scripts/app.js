@@ -1,5 +1,7 @@
+// VARIABLES
+const tieColor = document.getElementById('tieColor')
 
-
+// SMOOTH SCROLLING
 $(document).ready(function(){
     
     $("a").on("click", function(event) {
