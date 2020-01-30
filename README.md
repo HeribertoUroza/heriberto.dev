@@ -25,3 +25,5 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
     - Looking into pseudo elements to change up the background of an image
 4. Images of the projects need to be screenshoted.
 5. Icons for the contact me page for Linkedin and GitHub
+6. Push to heriberto.dev. 
+7. Look for tie patterns.
