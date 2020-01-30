@@ -25,6 +25,7 @@ $bodyFont: 'Oswald', sans-serif;
     right: 2px;
     z-index: -1;
     overflow: hidden;
+    opacity: 0.3;
 
     .background-image {
         height: 93vh;
@@ -47,7 +48,7 @@ $bodyFont: 'Oswald', sans-serif;
     .signature {
         font-family: $bodyFont;
         font-size: 1.5rem;
-        letter-spacing: 1.5px;
+        // letter-spacing: 1.5px;
         font-weight: 600;
     }
 }
