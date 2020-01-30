@@ -28,7 +28,7 @@ $bodyFont: 'Oswald', sans-serif;
 
     .background-image {
         height: 93vh;
-        opacity: 0.3;
+        opacity: 1;
     }
 
     #tieColor {
@@ -36,7 +36,7 @@ $bodyFont: 'Oswald', sans-serif;
         width: 100%;
         top: 0;
         position: absolute;
-        z-index: -2;
+        z-index: -1;
     }
 }
 
