@@ -64,10 +64,14 @@ const pageCheck = entries => {
         console.log('page', entry.isIntersecting)
     
         if(entry.isIntersecting){
-            tieColor.style.backgroundImage = "url('https://images.unsplash.com/photo-1500349812227-3264f5f54181?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60')"
+            tieColor.style.backgroundImage = randomTieImage();
         }
     })
 };
+
+const randomTieImage = () => {
+    return arrColors[Math.floor(Math.random() * arrColors.length)];
+}
 
 let observer = new IntersectionObserver(pageCheck, options);
 
