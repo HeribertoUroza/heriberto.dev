@@ -68,7 +68,7 @@
 }
 
 .p-b-container .p-1 .p-1-image {
-  height: 185px;
+  width: 160%;
 }
 
 .p-b-container .p-2 {
@@ -83,7 +83,7 @@
 }
 
 .p-b-container .p-2 .p-2-image {
-  height: 50px;
+  width: 160%;
 }
 
 .p-b-container .p-3 {
@@ -98,7 +98,7 @@
 }
 
 .p-b-container .p-3 .p-3-image {
-  height: 50px;
+  width: 160%;
 }
 
 .r-container .r-title {

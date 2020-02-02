@@ -33,7 +33,7 @@ $bodyFont: 'Oswald', sans-serif;
         display: grid; 
 
         .p-1-image {
-            height: 185px;
+            width: 160%;
         }
     }
     
@@ -46,7 +46,7 @@ $bodyFont: 'Oswald', sans-serif;
         display: grid; 
 
         .p-2-image {
-            height: 50px;
+            width: 160%;
         }
     }
     
@@ -59,7 +59,7 @@ $bodyFont: 'Oswald', sans-serif;
         display: grid; 
 
         .p-3-image {
-            height: 50px;
+            width: 160%;
         }
     }
 }
