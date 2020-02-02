@@ -18,9 +18,9 @@ $titleFont: 'Merriweather', serif;
     display: grid;
 
     .pdf-file {    
-        margin: 0%;
-        height: 65%;
+        padding-top: 10%;
+        height: 75%;
         width: 100%;
-        left: 2px;
+        overflow: hidden;
     }
 }
