@@ -24,3 +24,15 @@ $titleFont: 'Merriweather', serif;
         overflow: hidden;
     }
 }
+
+
+@media (min-width: 375px) {
+    .pdf-container {
+    
+
+        .pdf-file {    
+            padding-top: 10%;
+            height: 65%;
+        }
+    }   
+}
