@@ -15,7 +15,7 @@ $bodyFont: 'Oswald', sans-serif;
 }
 
 .am-b-container {
-    height: 90vh;
+    height: 110vh;
     display: grid;
     grid-template-columns: 60% auto;
     align-items: center;
@@ -23,7 +23,7 @@ $bodyFont: 'Oswald', sans-serif;
     .am-body {
         font-family: $bodyFont;
         text-align: left;
-        font-size: 1.4rem;
+        font-size: 1.23rem;
         padding-left: 8%;
     }
 }
