@@ -13,7 +13,7 @@
 }
 
 .am-b-container {
-  height: 110vh;
+  height: 100vh;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 60% auto;
@@ -28,6 +28,15 @@
   text-align: left;
   font-size: 1.23rem;
   padding-left: 8%;
+}
+
+@media (min-width: 375px) {
+  .am-b-container {
+    height: 98vh;
+  }
+  .am-b-container .am-body {
+    font-size: 1.45rem;
+  }
 }
 
 .pt-container .p-title {
@@ -121,6 +130,13 @@
   height: 75%;
   width: 100%;
   overflow: hidden;
+}
+
+@media (min-width: 375px) {
+  .pdf-container .pdf-file {
+    padding-top: 10%;
+    height: 65%;
+  }
 }
 
 .cm-container .cm-title {
