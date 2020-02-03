@@ -28,7 +28,7 @@ $bodyFont: 'Oswald', sans-serif;
     }
 }
 
-@media (min-width: 375px) {
+@media (min-width: 375px) and (min-height: 812px){
     .am-b-container {
         height: 100vh;
 
