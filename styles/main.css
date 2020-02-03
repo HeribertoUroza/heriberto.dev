@@ -32,10 +32,10 @@
 
 @media (min-width: 375px) {
   .am-b-container {
-    height: 110%;
+    height: 100vh;
   }
   .am-b-container .am-body {
-    font-size: 1.365rem;
+    font-size: 1.45rem;
   }
 }
 
@@ -135,7 +135,7 @@
 @media (min-width: 375px) {
   .pdf-container .pdf-file {
     padding-top: 10%;
-    height: 80%;
+    height: 65%;
   }
 }
 
