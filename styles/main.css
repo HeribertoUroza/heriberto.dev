@@ -139,6 +139,13 @@
   }
 }
 
+@media (min-width: 375px) {
+  .pdf-container .pdf-file {
+    padding-top: 10%;
+    height: 80%;
+  }
+}
+
 .cm-container .cm-title {
   font-family: "Merriweather", serif;
   font-weight: 300;

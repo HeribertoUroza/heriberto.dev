@@ -36,3 +36,14 @@ $titleFont: 'Merriweather', serif;
         }
     }   
 }
+
+@media (min-width: 375px) {
+    .pdf-container {
+    
+
+        .pdf-file {    
+            padding-top: 10%;
+            height: 80%;
+        }
+    }   
+}
