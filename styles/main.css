@@ -139,7 +139,7 @@
   }
 }
 
-@media (min-width: 375px) {
+@media (min-width: 411px) {
   .pdf-container .pdf-file {
     padding-top: 10%;
     height: 80%;
