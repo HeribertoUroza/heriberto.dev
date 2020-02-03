@@ -39,3 +39,15 @@ $bodyFont: 'Oswald', sans-serif;
         }
     }
 }
+
+@media (min-width: 411px) {
+    .am-b-container {
+        height: 95vh;
+
+        .am-body {
+
+            font-size: 1.45rem;
+           
+        }
+    }
+}

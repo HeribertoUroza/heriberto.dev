@@ -39,6 +39,15 @@
   }
 }
 
+@media (min-width: 411px) {
+  .am-b-container {
+    height: 95vh;
+  }
+  .am-b-container .am-body {
+    font-size: 1.45rem;
+  }
+}
+
 .pt-container .p-title {
   font-family: "Merriweather", serif;
   font-weight: 300;
