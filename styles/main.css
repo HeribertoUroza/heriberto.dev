@@ -30,6 +30,15 @@
   padding-left: 8%;
 }
 
+@media (min-width: 375px) {
+  .am-b-container {
+    height: 95vh;
+  }
+  .am-b-container .am-body {
+    font-size: 1.40rem;
+  }
+}
+
 @media (min-width: 375px) and (min-height: 812px) {
   .am-b-container {
     height: 100vh;
@@ -39,12 +48,30 @@
   }
 }
 
-@media (min-width: 425px) {
+@media (min-width: 411px) {
   .am-b-container {
     height: 95vh;
   }
   .am-b-container .am-body {
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 425px) {
+  .am-b-container {
+    height: 90vh;
+  }
+  .am-b-container .am-body {
     font-size: 1.45rem;
+  }
+}
+
+@media (min-width: 525px) {
+  .am-b-container {
+    height: 90vh;
+  }
+  .am-b-container .am-body {
+    font-size: 1.5rem;
   }
 }
 
