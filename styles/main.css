@@ -197,6 +197,33 @@
   }
 }
 
+@media (min-width: 425px) {
+  .pdf-container .pdf-file {
+    width: 60%;
+    height: 65%;
+  }
+}
+
+@media (min-width: 500px) {
+  .pdf-container .pdf-file {
+    height: 70%;
+  }
+}
+
+@media (min-width: 575px) {
+  .pdf-container .pdf-file {
+    padding-top: 5%;
+    height: 80%;
+  }
+}
+
+@media (min-width: 625px) {
+  .pdf-container .pdf-file {
+    padding-top: 0%;
+    height: 90%;
+  }
+}
+
 @media (min-width: 768px) and (min-height: 1024px) {
   .pdf-container .pdf-file {
     padding-top: 10%;
