@@ -51,3 +51,20 @@ $bodyFont: 'Oswald', sans-serif;
         }
     }
 }
+
+@media (min-width: 768px) and (min-height: 1024px){
+    .amt-container {
+        
+
+        .am-title {
+            font-size: 3.5rem;
+        }
+    }
+
+    .am-b-container {
+
+        .am-body {
+            font-size: 2.1rem;
+        }
+    }
+}

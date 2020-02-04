@@ -47,3 +47,14 @@ $titleFont: 'Merriweather', serif;
         }
     }   
 }
+
+@media (min-width: 768px) and (min-height: 1024px){
+    .pdf-container {
+    
+
+        .pdf-file {    
+            padding-top: 10%;
+            height: 75%;
+        }
+    }   
+}
