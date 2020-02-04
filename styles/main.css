@@ -128,6 +128,24 @@
   width: 160%;
 }
 
+@media (min-width: 768px) and (min-height: 1024px) {
+  .pt-container .p-title {
+    font-size: 3.5rem;
+  }
+  .p-b-container {
+    font-size: 2.5rem;
+  }
+  .p-b-container .p-1 .p-1-image {
+    width: 100%;
+  }
+  .p-b-container .p-2 .p-2-image {
+    width: 100%;
+  }
+  .p-b-container .p-3 .p-3-image {
+    width: 100%;
+  }
+}
+
 .r-container .r-title {
   font-family: "Merriweather", serif;
   font-weight: 300;
@@ -301,5 +319,17 @@
   letter-spacing: 2px;
   text-decoration: none;
   color: black;
+}
+
+@media (min-width: 768px) and (min-height: 1024px) {
+  .background {
+    opacity: 1;
+  }
+  .title_container .signature {
+    font-size: 2.5rem;
+  }
+  .links_container .link {
+    font-size: 3.5rem;
+  }
 }
 /*# sourceMappingURL=main.css.map */
