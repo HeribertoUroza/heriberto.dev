@@ -39,7 +39,7 @@
   }
 }
 
-@media (min-width: 411px) {
+@media (min-width: 425px) {
   .am-b-container {
     height: 95vh;
   }
@@ -126,6 +126,21 @@
 
 .p-b-container .p-3 .p-3-image {
   width: 160%;
+}
+
+@media (min-width: 425px) {
+  .p-b-container {
+    font-size: 1.45rem;
+  }
+  .p-b-container .p-1 .p-1-image {
+    width: 100%;
+  }
+  .p-b-container .p-2 .p-2-image {
+    width: 100%;
+  }
+  .p-b-container .p-3 .p-3-image {
+    width: 100%;
+  }
 }
 
 @media (min-width: 768px) and (min-height: 1024px) {
@@ -354,7 +369,7 @@
   color: black;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 425px) {
   .background {
     opacity: 1;
   }
