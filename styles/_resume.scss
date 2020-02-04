@@ -58,3 +58,22 @@ $titleFont: 'Merriweather', serif;
         }
     }   
 }
+
+@media (min-width: 768px) and (min-height: 1024px){
+    .r-container {
+
+        .r-title {
+            font-size: 3.5rem;
+        }
+    }
+
+    .pdf-container {
+        height: 90vh;
+        display: grid;
+
+        .pdf-file {    
+            height: 65%;
+            width: 60%;
+        }
+    }
+}
