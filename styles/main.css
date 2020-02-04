@@ -276,6 +276,24 @@
   font-size: 1.5rem;
 }
 
+@media (min-width: 768px) and (min-height: 1024px) {
+  .cm-container .cm-title {
+    font-size: 3.5rem;
+  }
+  .cm-b-container .i-1 .i-1-image {
+    height: 200px;
+  }
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 2.1rem;
+  }
+  .cm-b-container .i-2 .i-2-image {
+    height: 200px;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 2.1rem;
+  }
+}
+
 .background {
   background-repeat: no-repeat;
   background-attachment: fixed;
