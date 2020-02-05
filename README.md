@@ -19,11 +19,12 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
 1. Have signiture written on the front page. 
     - Need to see if this can be done with css or something else needed.
 2. Have the site load the a different image based on the date.
+6. Push to heriberto.dev. 
+8. Sizing IFrame Better. 
+
+### Completed
 3. Research how the Tie will change color based on the page they are on. 
     - having issues with curren  svg image, need to try and remake a new one. Also look into "masking" the svg. Could help with goal of changing color.[completed]
-
-
 4. Images of the projects need to be screenshoted. Black and White
 5. Icons for the contact me page for Linkedin and GitHub
-6. Push to heriberto.dev. 
 7. Look for tie patterns.[Completed]

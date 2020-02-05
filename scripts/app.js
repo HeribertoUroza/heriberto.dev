@@ -66,7 +66,6 @@ const options = {
 
 const pageCheck = entries => {
     entries.forEach( entry => {
-        console.log('page', entry.isIntersecting)
     
         if(entry.isIntersecting){
             tieColor.style.backgroundImage = randomTieImage();
@@ -84,4 +83,3 @@ titles.forEach( title => {
     observer.observe(title);
 })
 
-console.log('titles',titles)
