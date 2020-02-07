@@ -32,6 +32,12 @@ $bodyFont: 'Oswald', sans-serif;
         
         display: grid; 
 
+        text-decoration: none;
+
+        &:visited {
+            color: black;
+        }
+        
         .p-1-image {
             width: 160%;
         }
@@ -45,6 +51,12 @@ $bodyFont: 'Oswald', sans-serif;
         
         display: grid; 
 
+        text-decoration: none;
+
+        &:visited {
+            color: black;
+        }
+
         .p-2-image {
             width: 160%;
         }
@@ -57,6 +69,12 @@ $bodyFont: 'Oswald', sans-serif;
         grid-row-end: 4;
         
         display: grid; 
+
+        text-decoration: none;
+
+        &:visited {
+            color: black;
+        }
 
         .p-3-image {
             width: 160%;
