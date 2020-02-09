@@ -19,13 +19,13 @@ $titleFont: 'Merriweather', serif;
 
     .pdf-file {    
         padding-top: 10%;
-        height: 80%;
+        height: 45%;
         width: 100%;
         overflow: hidden;
     }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 265px) {
     .pdf-container {
     
 
@@ -35,47 +35,17 @@ $titleFont: 'Merriweather', serif;
     }  
 }
 
-@media (min-width: 330px) {
+@media (min-width: 290px) {
     .pdf-container {
     
 
         .pdf-file {    
-            height: 50%;
+            height: 51%;
         }
     }  
 }
 
-@media (min-width: 340px) {
-    .pdf-container {
-    
-
-        .pdf-file {    
-            height: 52%;
-        }
-    }  
-}
-
-@media (min-width: 350px) {
-    .pdf-container {
-    
-
-        .pdf-file {    
-            height: 54%;
-        }
-    }  
-}
-
-@media (min-width: 360px) {
-    .pdf-container {
-    
-
-        .pdf-file {    
-            height: 55%;
-        }
-    }  
-}
-
-@media (min-width: 370px) {
+@media (min-width: 320px) {
     .pdf-container {
     
 
@@ -85,17 +55,7 @@ $titleFont: 'Merriweather', serif;
     }  
 }
 
-@media (min-width: 380px) {
-    .pdf-container {
-    
-
-        .pdf-file {    
-            height: 57%;
-        }
-    }  
-}
-
-@media (min-width: 390px) {
+@media (min-width: 330px) {
     .pdf-container {
     
 
@@ -105,7 +65,7 @@ $titleFont: 'Merriweather', serif;
     }  
 }
 
-@media (min-width: 400px) {
+@media (min-width: 340px) {
     .pdf-container {
     
 
@@ -115,7 +75,7 @@ $titleFont: 'Merriweather', serif;
     }  
 }
 
-@media (min-width: 410px) {
+@media (min-width: 350px) {
     .pdf-container {
     
 
@@ -125,35 +85,73 @@ $titleFont: 'Merriweather', serif;
     }  
 }
 
-// @media (min-width: 375px) and (min-height: 812px){
-//     .pdf-container {
+@media (min-width: 360px) {
+    .pdf-container {
     
 
-//         .pdf-file {    
-//             padding-top: 10%;
-//             height: 66%;
-//         }
-//     }   
-// }
+        .pdf-file {    
+            height: 64%;
+        }
+    }  
+}
 
-// @media (min-width: 411px) and (min-height: 823px){
-//     .pdf-container {
+@media (min-width: 370px) {
+    .pdf-container {
     
 
-//         .pdf-file {    
-//             padding-top: 10%;
-//             height: 71%;
-//         }
-//     }   
-// }
+        .pdf-file {    
+            height: 66%;
+        }
+    }  
+}
+
+@media (min-width: 380px) {
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 68%;
+        }
+    }  
+}
+
+@media (min-width: 390px) {
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 70%;
+        }
+    }  
+}
+
+@media (min-width: 400px) {
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 72%;
+        }
+    }  
+}
+
+@media (min-width: 410px) {
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 74%;
+        }
+    }  
+}
 
 @media (min-width: 425px){
     .pdf-container {
     
 
         .pdf-file {    
-            width: 60%;
-            height: 38%;
+            width: 70%;
+            height: 52%;
         }
     }       
 }
@@ -163,8 +161,7 @@ $titleFont: 'Merriweather', serif;
     
 
         .pdf-file {    
-            width: 60%;
-            height: 40%;
+            height: 54%;
         }
     }       
 }
@@ -174,8 +171,7 @@ $titleFont: 'Merriweather', serif;
     
 
         .pdf-file {    
-            width: 60%;
-            height: 42%;
+            height: 56%;
         }
     }       
 }
@@ -185,8 +181,7 @@ $titleFont: 'Merriweather', serif;
     
 
         .pdf-file {    
-            width: 60%;
-            height: 44%;
+            height: 58%;
         }
     }       
 }
@@ -196,7 +191,17 @@ $titleFont: 'Merriweather', serif;
     
 
         .pdf-file {    
-            height: 46%;
+            height: 60%;
+        }
+    }       
+}
+
+@media (min-width: 510px){
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 62%;
         }
     }       
 }
@@ -206,7 +211,17 @@ $titleFont: 'Merriweather', serif;
     
 
         .pdf-file {    
-            height: 48%;
+            height: 64%;
+        }
+    }       
+}
+
+@media (min-width: 530px){
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 66%;
         }
     }       
 }
@@ -216,7 +231,37 @@ $titleFont: 'Merriweather', serif;
     
 
         .pdf-file {    
-            height: 50%;
+            height: 68%;
+        }
+    }       
+}
+
+@media (min-width: 550px){
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 70%;
+        }
+    }       
+}
+
+@media (min-width: 590px){
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 72%;
+        }
+    }       
+}
+
+@media (min-width: 600px){
+    .pdf-container {
+    
+
+        .pdf-file {    
+            height: 74%;
         }
     }       
 }
