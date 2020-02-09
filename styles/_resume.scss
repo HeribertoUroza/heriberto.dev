@@ -335,6 +335,18 @@ $titleFont: 'Merriweather', serif;
     .pdf-container {
         padding-top: none;
         height: 105vh;
+        margin-bottom: 5%;
+
+        .pdf-file {    
+            height: 85%;
+        }
+    }  
+}
+
+@media (min-width: 1400px) {
+    .pdf-container {
+        padding-top: none;
+        height: 110vh;
 
         .pdf-file {    
             height: 85%;

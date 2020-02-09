@@ -110,6 +110,29 @@ $bodyFont: 'Oswald', sans-serif;
     }
 }
 
+@media (min-width: 525px){
+
+    .p-b-container {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 600px){
+
+    .p-b-container {
+        font-size: 1.75rem;
+    }
+}
+
+@media (min-width: 700px){
+
+    .p-b-container {
+        height: 120vh;
+        font-size: 1.9rem;
+        margin-bottom: 10%
+    }
+}
+
 @media (min-width: 768px) and (min-height: 1024px){
     .pt-container {
         .p-title {
@@ -140,5 +163,27 @@ $bodyFont: 'Oswald', sans-serif;
                 width: 100%;
             }
         }
+    }
+}
+
+@media (min-width: 1200px){
+
+    .p-b-container {
+        font-size: 2.1rem;
+        margin-bottom: 15%
+    }
+}
+
+@media (min-width: 1300px){
+
+    .p-b-container {
+        margin-bottom: 25%;
+    }
+}
+
+@media (min-width: 1400px){
+
+    .p-b-container {
+        margin-bottom: 30%;
     }
 }

@@ -27,7 +27,7 @@
   font-family: "Oswald", sans-serif;
   text-align: left;
   font-size: 1.23rem;
-  padding-left: 8%;
+  padding-left: 6%;
 }
 
 @media (min-width: 375px) {
@@ -209,6 +209,26 @@
   }
 }
 
+@media (min-width: 525px) {
+  .p-b-container {
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 600px) {
+  .p-b-container {
+    font-size: 1.75rem;
+  }
+}
+
+@media (min-width: 700px) {
+  .p-b-container {
+    height: 120vh;
+    font-size: 1.9rem;
+    margin-bottom: 10%;
+  }
+}
+
 @media (min-width: 768px) and (min-height: 1024px) {
   .pt-container .p-title {
     font-size: 3.5rem;
@@ -224,6 +244,25 @@
   }
   .p-b-container .p-3 .p-3-image {
     width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .p-b-container {
+    font-size: 2.1rem;
+    margin-bottom: 15%;
+  }
+}
+
+@media (min-width: 1300px) {
+  .p-b-container {
+    margin-bottom: 25%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .p-b-container {
+    margin-bottom: 30%;
   }
 }
 
@@ -448,6 +487,17 @@
   .pdf-container {
     padding-top: none;
     height: 105vh;
+    margin-bottom: 5%;
+  }
+  .pdf-container .pdf-file {
+    height: 85%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .pdf-container {
+    padding-top: none;
+    height: 110vh;
   }
   .pdf-container .pdf-file {
     height: 85%;
@@ -526,6 +576,60 @@
   font-size: 1.5rem;
 }
 
+@media (min-width: 375) {
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 1.4rem;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 1.4rem;
+  }
+}
+
+@media (min-width: 411) {
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 1.5rem;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 425) {
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 1.45rem;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 1.45rem;
+  }
+}
+
+@media (min-width: 525) {
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 1.5rem;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 600) {
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 1.75rem;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 1.75rem;
+  }
+}
+
+@media (min-width: 700) {
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 1.9rem;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 1.9rem;
+  }
+}
+
 @media (min-width: 768px) and (min-height: 1024px) {
   .cm-container .cm-title {
     font-size: 3.5rem;
@@ -538,6 +642,15 @@
   }
   .cm-b-container .i-2 .i-2-image {
     height: 200px;
+  }
+  .cm-b-container .i-2 .i-2-span {
+    font-size: 2.1rem;
+  }
+}
+
+@media (min-width: 1200) {
+  .cm-b-container .i-1 .i-1-span {
+    font-size: 2.1rem;
   }
   .cm-b-container .i-2 .i-2-span {
     font-size: 2.1rem;

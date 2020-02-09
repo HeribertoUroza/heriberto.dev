@@ -66,6 +66,126 @@ $bodyFont: 'Oswald', sans-serif;
     }
 }
 
+@media (min-width: 375) {
+    .cm-b-container {
+
+        .i-1 {
+
+            .i-1-span {
+                font-size: 1.4rem;
+
+            }
+        }
+
+        .i-2 {
+
+            .i-2-span {
+                font-size: 1.4rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 411) {
+    .cm-b-container {
+
+        .i-1 {
+
+            .i-1-span {
+                font-size: 1.5rem;
+
+            }
+        }
+
+        .i-2 {
+
+            .i-2-span {
+                font-size: 1.5rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 425) {
+    .cm-b-container {
+
+        .i-1 {
+
+            .i-1-span {
+                font-size: 1.45rem;
+
+            }
+        }
+
+        .i-2 {
+
+            .i-2-span {
+                font-size: 1.45rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 525) {
+    .cm-b-container {
+
+        .i-1 {
+
+            .i-1-span {
+                font-size: 1.5rem;
+
+            }
+        }
+
+        .i-2 {
+
+            .i-2-span {
+                font-size: 1.5rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 600) {
+    .cm-b-container {
+
+        .i-1 {
+
+            .i-1-span {
+                font-size: 1.75rem;
+
+            }
+        }
+
+        .i-2 {
+
+            .i-2-span {
+                font-size: 1.75rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 700) {
+    .cm-b-container {
+
+        .i-1 {
+
+            .i-1-span {
+                font-size: 1.9rem;
+
+            }
+        }
+
+        .i-2 {
+
+            .i-2-span {
+                font-size: 1.9rem;
+            }
+        }
+    }
+}
+
 @media (min-width: 768px) and (min-height: 1024px){
     .cm-container {
         .cm-title {
@@ -91,6 +211,26 @@ $bodyFont: 'Oswald', sans-serif;
             .i-2-image {
                 height: 200px;
             }
+
+            .i-2-span {
+                font-size: 2.1rem;
+            }
+        }
+    }
+}
+
+@media (min-width: 1200) {
+    .cm-b-container {
+
+        .i-1 {
+
+            .i-1-span {
+                font-size: 2.1rem;
+
+            }
+        }
+
+        .i-2 {
 
             .i-2-span {
                 font-size: 2.1rem;
