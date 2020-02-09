@@ -557,6 +557,12 @@
 }
 
 @media (min-width: 800px) {
+  body {
+    margin-left: 10%;
+  }
+  .background {
+    margin-right: 5%;
+  }
   .links_container .link {
     padding-top: 5%;
   }
@@ -571,6 +577,24 @@
   }
   .links_container .link {
     font-size: 3.5rem;
+  }
+}
+
+@media (min-width: 900px) {
+  body {
+    margin-left: 15%;
+  }
+  .background {
+    margin-right: 10%;
+  }
+}
+
+@media (min-width: 1000px) {
+  body {
+    margin-left: 20%;
+  }
+  .background {
+    margin-right: 15%;
   }
 }
 /*# sourceMappingURL=main.css.map */
