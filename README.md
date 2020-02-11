@@ -1,6 +1,7 @@
 # Welcome to my Website
+[heriberto.dev](heriberto.dev)
 
-## Deployed Links
+## Subdomain Links
 Currently Being Hosted on Netlify
 
 https://adoring-goldstine-e5092b.netlify.com/
@@ -21,6 +22,7 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
 2. Have the site load the a different image based on the date.
 6. Push to heriberto.dev. 
 8. Sizing IFrame Better. Might need to find somewhere else to host the pdf. Possibly add PDF to files and adjust resizing. IFrame.document.body.style.height
+9. Height is having issues
 
 ### Completed
 3. Research how the Tie will change color based on the page they are on. 
