@@ -9,11 +9,10 @@ https://adoring-goldstine-e5092b.netlify.com/
 ### Wire Frames
 https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
 
-### Features
+### Future Features
 1. The Tie will change colors on different pages
 2. If you go to the site on the weekend, the tie is loosen
 3. MOBILE: 
-    - Home Page will have the tie change colors every few seconds.
     - Other pages, the tie will be transparent enough like a watermark to allow more space for the content.
 
 ### ToDo
@@ -25,8 +24,8 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
 
 ### Completed
 3. Research how the Tie will change color based on the page they are on. 
-    - having issues with curren  svg image, need to try and remake a new one. Also look into "masking" the svg. Could help with goal of changing color.[completed]
-4. Images of the projects need to be screenshoted. Black and White
-5. Icons for the contact me page for Linkedin and GitHub
+    - having issues with current  svg image, need to try and remake a new one. Also look into "masking" the svg. Could help with goal of changing color.[Completed]
+4. Images of the projects need to be screenshoted. Black and White [Completed]
+5. Icons for the contact me page for Linkedin and GitHub[Completed]
 6. Push to heriberto.dev.[Completed]
 7. Look for tie patterns.[Completed]
