@@ -25,6 +25,8 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
 10. Add picture at the bottom of page.
     - black and white.
     - include tie.
+11. Auto fill in css grid to make site more responsive.
+12. Switch `height: 90vh` to percentage and test.
 
 ### Completed
 3. Research how the Tie will change color based on the page they are on. 
