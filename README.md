@@ -27,6 +27,8 @@ https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
     - include tie.
 11. Auto fill in css grid to make site more responsive.
 12. Switch `height: 90vh` to percentage and test.
+13. Check to see if security can be added to allow access from company firewalls.
+14. Check on google analytics or Netlify analytics to see how many people have visited the site.
 
 ### Completed
 3. Research how the Tie will change color based on the page they are on. 
