@@ -791,7 +791,25 @@
     margin-left: 20%;
   }
   .background {
-    margin-right: 15%;
+    margin-right: 10%;
+  }
+}
+
+@media (min-width: 1200px) {
+  body {
+    margin-left: 15%;
+  }
+  .background {
+    margin-right: 16%;
+  }
+}
+
+@media (min-width: 1800px) {
+  body {
+    margin-left: 20%;
+  }
+  .background {
+    margin-right: 18%;
   }
 }
 /*# sourceMappingURL=main.css.map */
