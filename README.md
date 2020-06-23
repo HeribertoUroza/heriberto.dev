@@ -1,5 +1,6 @@
 # Welcome to my Website
-[heriberto.dev](heriberto.dev)
+
+https://www.heriberto.dev
 
 ## Subdomain Links
 Currently Being Hosted on Netlify
