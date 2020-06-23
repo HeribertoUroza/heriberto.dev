@@ -1,11 +1,7 @@
-# Welcome to my Website
+# Welcome to my Website [![Netlify Status](https://api.netlify.com/api/v1/badges/b7bc2d70-8741-4c3f-bded-7f526b767df2/deploy-status)](https://app.netlify.com/sites/adoring-goldstine-e5092b/deploys)
 
 https://www.heriberto.dev
 
-## Subdomain Links
-Currently Being Hosted on Netlify
-
-https://adoring-goldstine-e5092b.netlify.com/
 
 ### Wire Frames
 https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
