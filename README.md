@@ -6,6 +6,11 @@ https://www.heriberto.dev
 ### Wire Frames
 https://www.figma.com/file/ZNvn04T4gYz0WQdCYXK2DG/heriberto.dev?node-id=0%3A1
 
+### V2
+New minimalist design
+Figma updated with new style
+Mobile design needed
+
 ### Future Features
 1. The Tie will change colors on different pages
 2. If you go to the site on the weekend, the tie is loosen
